@@ -1,3 +1,12 @@
+/***********************************************************************************/
+//***********************************************************************************
+//            *************NOTE**************
+// This is a template for the subject of RTOS in University of Technology
+// Sydney(UTS) Please complete the code based on the assignment requirement.
+
+//***********************************************************************************
+/***********************************************************************************/
+
 /*
   To compile assign2_template-v3.c ensure that gcc is installed and run
   the following command:
